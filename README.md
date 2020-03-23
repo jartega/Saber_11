@@ -10,3 +10,6 @@ Listado de datasets de Colombia en https://datos.gov.co, analizados:
 
 El analisis realizado presenta desde la revision de calidad de datos hasta la aplicacion del modelo, desde la formulacion de un caso de uso.
 -[Informe](https://github.com/jartega/Saber_11/blob/master/Analisis%20Saber%20Pro%2011.pptx)
+-[Script - R - Carga de datos, EDA]()
+-[Notepad - python - modelamiento y evaluacion](https://github.com/jartega/Saber_11/blob/master/untitled3.py)
+
